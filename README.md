@@ -115,4 +115,4 @@ This exercise is based on the simulation tool developed as part of an undergradu
 <br>
 
 ## Solution Report
-For more info regarding the solution, please refer this [report](https://github.com/deepakraina99/symbolic-planning-mobile-manipulator/blob/master/docs/report.pdf)
+For information regarding the solution, please refer this [report](https://github.com/deepakraina99/symbolic-planning-mobile-manipulator/blob/master/docs/report.pdf)
