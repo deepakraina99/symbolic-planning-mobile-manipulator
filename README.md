@@ -1,4 +1,4 @@
-# COL864: Homework II
+# Symbolic planner for mobile manipulator
 ## Overview
 * This exercise concerns writing a symbolic planner for an agent (mobile manipulator) capable of interacting with objects in a virtual environment. 
 * The robot in the virtual environment is capable of performing a set of actions (move to, pick, place on, push to, open/close) which are described below. 
@@ -113,5 +113,6 @@ Note: The grading policy is subject to change without notice.
 This exercise is based on the simulation tool developed as part of an undergraduate project at Dept. of CSE, IITD led by 
 [Shreshth Tuli](www.github.com/shreshthtuli).
 <br>
-Shreshth will be the guest teaching assistant for this homework. He is reachable at shreshth.cs116@cse.iitd.ac.in. 
 
+## Solution Report
+For more info regarding the solution, please refer this [report](https://github.com/deepakraina99/symbolic-planning-mobile-manipulator/blob/master/docs/report.pdf)
